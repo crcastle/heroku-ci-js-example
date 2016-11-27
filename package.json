@@ -2,6 +2,7 @@
   "name": "heroku-ci-js-example",
   "version": "1.0.0",
   "description": "An example project using Heroku CI",
+  "repository": "https://github.com/crcastle/heroku-ci-js-example",
   "main": "index.js",
   "author": "Chris Castle",
   "license": "MIT",
