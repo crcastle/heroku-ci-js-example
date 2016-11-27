@@ -10,6 +10,7 @@
     "test": "jasmine"
   },
   "dependencies": {
-    "jasmine": "^2.5.2"
+    "jasmine": "^2.5.2",
+    "jasmine-reporters": "^2.2.0"
   }
 }
