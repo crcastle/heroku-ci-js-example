@@ -1,6 +1,3 @@
-const reporter = require('jasmine-reporters');
-jasmine.getEnv().addReporter(new reporter.TapReporter());
-
 describe("Player", function() {
   var Player = require('../../lib/jasmine_examples/Player');
   var Song = require('../../lib/jasmine_examples/Song');
