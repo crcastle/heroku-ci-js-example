@@ -1,5 +1,4 @@
 const reporter = require('jasmine-reporters');
-
 jasmine.getEnv().addReporter(new reporter.TapReporter());
 
 describe("Player", function() {
