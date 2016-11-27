@@ -1,0 +1,5 @@
+{
+  "name": "heroku-ci-js-example",
+  "description": "An example project using Heroku CI",
+  "repository": "https://github.com/crcastle/heroku-ci-js-example"
+}
